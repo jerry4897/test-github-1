@@ -21,6 +21,10 @@ public class Calculator{
   }
 
   private static int division(int a, int b){
+<<<<<<< HEAD
     return a / b; // by master
+======= return a / b; // integrated
+    return a / b; // by division
+>>>>>>> division
   }
 }
