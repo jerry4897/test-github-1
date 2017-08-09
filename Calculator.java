@@ -21,6 +21,6 @@ public class Calculator{
   }
 
   private static int division(int a, int b){
-    return a / b;
+    return a / b; // by division
   }
 }
